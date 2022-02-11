@@ -98,18 +98,18 @@
 		0A78910E27B52D0E009796AF /* FactoryMethod */ = {
 			isa = PBXGroup;
 			children = (
-				0A78910F27B52D0E009796AF /* TopActivity.h */,
+				0A78911927B52D0E009796AF /* ActivityManager.h */,
 				0A78911027B52D0E009796AF /* ActivityManager.m */,
-				0A78911127B52D0E009796AF /* MiddleActivity.h */,
-				0A78911227B52D0E009796AF /* FloatingActivity.m */,
-				0A78911327B52D0E009796AF /* BottomActivity.h */,
 				0A78911427B52D0E009796AF /* ActivityFactory.h */,
+				0A78911A27B52D0E009796AF /* ActivityFactory.m */,
+				0A78910F27B52D0E009796AF /* TopActivity.h */,
 				0A78911527B52D0E009796AF /* TopActivity.m */,
+				0A78911327B52D0E009796AF /* BottomActivity.h */,
 				0A78911627B52D0E009796AF /* BottomActivity.m */,
 				0A78911727B52D0E009796AF /* FloatingActivity.h */,
+				0A78911227B52D0E009796AF /* FloatingActivity.m */,
+				0A78911127B52D0E009796AF /* MiddleActivity.h */,
 				0A78911827B52D0E009796AF /* MiddleActivity.m */,
-				0A78911927B52D0E009796AF /* ActivityManager.h */,
-				0A78911A27B52D0E009796AF /* ActivityFactory.m */,
 			);
 			path = FactoryMethod;
 			sourceTree = "<group>";
